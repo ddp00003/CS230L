@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import Navbar from './Navbar';
+import Navbar from './Navbar.jsx';
 import Card from './Card.js';
 import './App.css';
 
